@@ -1,0 +1,687 @@
+IPR000035	Conserved_site	Alkylbase DNA glycosidase, conserved site
+IPR000047	Conserved_site	Helix-turn-helix motif
+IPR000049	Conserved_site	Electron transfer flavoprotein, beta-subunit, conserved site
+IPR000059	Conserved_site	NUDIX hydrolase, NudL, conserved site
+IPR000111	Conserved_site	Glycoside hydrolase family 27/36, conserved site
+IPR000132	Conserved_site	Nitrilase/cyanide hydratase, conserved site
+IPR000283	Conserved_site	NADH:ubiquinone oxidoreductase, 75kDa subunit, conserved site
+IPR000291	Conserved_site	D-alanine--D-alanine ligase/VANA/B/C, conserved site
+IPR000318	Conserved_site	Nitrogenase component 1, conserved site
+IPR000319	Conserved_site	Aspartate-semialdehyde dehydrogenase, conserved site
+IPR000385	Conserved_site	MoaA/nifB/pqqE, iron-sulphur binding, conserved site
+IPR000399	Conserved_site	TPP-binding enzyme, conserved site
+IPR000445	Conserved_site	Helix-hairpin-helix motif
+IPR000486	Conserved_site	Extradiol ring-cleavage dioxygenase, class I /II
+IPR000540	Conserved_site	Flagellar motor protein MotA, conserved site
+IPR000614	Conserved_site	Free Met sulfoxide reductase conserved site
+IPR000629	Conserved_site	ATP-dependent RNA helicase DEAD-box, conserved site
+IPR000633	Conserved_site	Vinculin, conserved site
+IPR000637	Conserved_site	HMG-I/HMG-Y, DNA-binding, conserved site
+IPR000645	Conserved_site	Type II secretion system protein N, conserved site
+IPR000804	Conserved_site	Clathrin adaptor complex, small chain
+IPR000808	Conserved_site	Mrp, conserved site
+IPR000827	Conserved_site	CC chemokine, conserved site
+IPR000838	Conserved_site	RNA polymerase sigma factor 70, ECF, conserved site
+IPR000842	Conserved_site	Phosphoribosyl pyrophosphate synthetase, conserved site
+IPR000952	Conserved_site	AB hydrolase 4, conserved site
+IPR000957	Conserved_site	Sulphate/thiosulphate-binding, conserved site
+IPR000985	Conserved_site	Legume lectin, alpha chain, conserved site
+IPR001014	Conserved_site	Ribosomal protein L23/L25, conserved site
+IPR001018	Conserved_site	Beta-lactamase, class-B, conserved site
+IPR001110	Conserved_site	Uncharacterised protein family UPF0012, conserved site
+IPR001131	Conserved_site	Peptidase M24B, X-Pro dipeptidase/aminopeptidase P, conserved site
+IPR001196	Conserved_site	Ribosomal protein L15, conserved site
+IPR001226	Conserved_site	Flavodoxin, conserved site
+IPR001261	Conserved_site	ArgE/DapE/ACY1/CPG2/YscS, conserved site
+IPR001295	Conserved_site	Dihydroorotate dehydrogenase, conserved site
+IPR001307	Conserved_site	Thiosulphate sulfurtransferase, conserved site
+IPR001326	Conserved_site	Translation elongation factor EF1B, beta/delta chains, conserved site
+IPR001331	Conserved_site	Guanine-nucleotide dissociation stimulator, CDC24, conserved site
+IPR001363	Conserved_site	Proteinase inhibitor I25C, fetuin, conserved site
+IPR001412	Conserved_site	Aminoacyl-tRNA synthetase, class I, conserved site
+IPR001423	Conserved_site	Lysophospholipase patatin, conserved site
+IPR001426	Conserved_site	Tyrosine-protein kinase, receptor class V, conserved site
+IPR001468	Conserved_site	Indole-3-glycerol phosphate synthase, conserved site
+IPR001479	Conserved_site	Quinoprotein dehydrogenase, conserved site
+IPR001484	Conserved_site	Pyrokinin, conserved site
+IPR001514	Conserved_site	DNA-directed RNA polymerase, 30-40kDa subunit, conserved site
+IPR001522	Conserved_site	Fatty acid desaturase type 1, conserved site
+IPR001524	Conserved_site	Glycoside hydrolase, family 6, conserved site
+IPR001550	Conserved_site	Transcription antiterminator, conserved site
+IPR001562	Conserved_site	Zinc finger, Btk motif
+IPR001587	Conserved_site	Ribonuclease J, conserved site
+IPR001589	Conserved_site	Actinin-type actin-binding domain, conserved site
+IPR001598	Conserved_site	Transposase, IS30, conserved site
+IPR001637	Conserved_site	Glutamine synthetase class-I, adenylation site
+IPR001692	Conserved_site	Histidinol dehydrogenase, conserved site
+IPR001751	Conserved_site	S100/Calbindin-D9k, conserved site
+IPR001824	Conserved_site	Tyrosine-protein kinase, receptor class III, conserved site
+IPR001827	Conserved_site	Homeobox protein, antennapedia type, conserved site
+IPR001858	Conserved_site	Phosphatidylethanolamine-binding, conserved site
+IPR001949	Conserved_site	NADH:ubiquinone oxidoreductase, 51kDa subunit, conserved site
+IPR001989	Conserved_site	Radical-activating enzyme, conserved site
+IPR001992	Conserved_site	Type II secretion system conserved site
+IPR001999	Conserved_site	Osteonectin-like, conserved site
+IPR002011	Conserved_site	Tyrosine-protein kinase, receptor class II, conserved site
+IPR002012	Conserved_site	Gonadotropin-releasing hormone
+IPR002034	Conserved_site	Alpha-isopropylmalate/homocitrate synthase, conserved site
+IPR002047	Conserved_site	Adipokinetic hormone, conserved site
+IPR002052	Conserved_site	DNA methylase, N-6 adenine-specific, conserved site
+IPR002057	Conserved_site	Isopenicillin N synthase, conserved site
+IPR002080	Conserved_site	Seminal vesicle protein II, conserved site
+IPR002173	Conserved_site	Carbohydrate/puine kinase, PfkB, conserved site
+IPR002194	Conserved_site	Chaperonin TCP-1, conserved site
+IPR002195	Conserved_site	Dihydroorotase, conserved site
+IPR002204	Conserved_site	3-hydroxyisobutyrate dehydrogenase-related, conserved site
+IPR002328	Conserved_site	Alcohol dehydrogenase, zinc-type, conserved site
+IPR002358	Conserved_site	Ribosomal protein L6, conserved site
+IPR002359	Conserved_site	Ribosomal protein L6, conserved site-2
+IPR002361	Conserved_site	Antenna complex, alpha subunit conserved site
+IPR002363	Conserved_site	Ribosomal protein L10, eubacterial, conserved site
+IPR002364	Conserved_site	Quinone oxidoreductase/zeta-crystallin, conserved site
+IPR002365	Conserved_site	Terpene synthase, conserved site
+IPR002464	Conserved_site	DNA/RNA helicase, ATP-dependent, DEAH-box type, conserved site
+IPR003006	Conserved_site	Immunoglobulin/major histocompatibility complex, conserved site
+IPR003043	Conserved_site	Uroporphiryn-III C-methyltransferase, conserved site
+IPR003109	Conserved_site	GoLoco motif
+IPR003527	Conserved_site	Mitogen-activated protein (MAP) kinase, conserved site
+IPR003528	Conserved_site	Long hematopoietin receptor, single chain, conserved site
+IPR003529	Conserved_site	Long hematopoietin receptor, Gp130 family 2, conserved site
+IPR003530	Conserved_site	Long hematopoietin receptor, soluble alpha chain, conserved site
+IPR003531	Conserved_site	Short hematopoietin receptor, family 1, conserved site
+IPR003532	Conserved_site	Short hematopoietin receptor, family 2, conserved site
+IPR003651	Conserved_site	Endonuclease III-like, iron-sulphur cluster loop motif
+IPR003903	Conserved_site	Ubiquitin interacting motif
+IPR003956	Conserved_site	Transcription factor, NFYB/HAP3, conserved site
+IPR003960	Conserved_site	ATPase, AAA-type, conserved site
+IPR004001	Conserved_site	Actin, conserved site
+IPR004011	Conserved_site	GYR motif
+IPR004019	Conserved_site	YLP motif
+IPR004027	Conserved_site	SEC-C motif
+IPR004036	Conserved_site	Endonuclease III-like, conserved site-2
+IPR004037	Conserved_site	Ribosomal protein L7Ae conserved site
+IPR004840	Conserved_site	Amino acid permease, conserved site
+IPR004845	Conserved_site	Type II secretion system GspD, conserved site
+IPR005486	Conserved_site	Glucokinase regulatory protein, conserved site
+IPR005803	Conserved_site	Fatty acid desaturase type 2, conserved site
+IPR005825	Conserved_site	Ribosomal protein L24/L26, conserved site
+IPR005829	Conserved_site	Sugar transporter, conserved site
+IPR005831	Conserved_site	Aerolysin/haemolysin toxin, conserved site
+IPR005836	Conserved_site	ADP-glucose pyrophosphorylase, conserved site
+IPR005853	Conserved_site	Omega-agatoxin type II/III, conserved site
+IPR005918	Conserved_site	Conantokin, conserved site
+IPR006012	Conserved_site	Syntaxin/epimorphin, conserved site
+IPR006040	Conserved_site	Allergen Ole e 1, conserved site
+IPR006061	Conserved_site	Solute-binding family 1, conserved site
+IPR006074	Conserved_site	GTP1/OBG, conserved site
+IPR006089	Conserved_site	Acyl-CoA dehydrogenase, conserved site
+IPR006105	Conserved_site	Cereal seed allergen/trypsin and alpha-amylase inhibitor, conserved site
+IPR006117	Conserved_site	2-5-oligoadenylate synthetase, conserved site
+IPR006118	Conserved_site	Recombinase, conserved site
+IPR006126	Conserved_site	Staphylococcal enterotoxin/Streptococcal pyrogenic exotoxin, conserved site
+IPR006144	Conserved_site	Secretion protein HlyD, conserved site
+IPR006146	Conserved_site	5'-Nucleotidase, conserved site
+IPR006180	Conserved_site	3-hydroxyacyl-CoA dehydrogenase, conserved site
+IPR006181	Conserved_site	D-amino acid oxidase, conserved site
+IPR006203	Conserved_site	GHMP kinase, ATP-binding, conserved site
+IPR006213	Conserved_site	Bax inhibitor 1, conserved site
+IPR006216	Conserved_site	Photosystem II cytochrome b559, conserved site
+IPR006224	Conserved_site	Pseudouridine synthase, RluC/RluD, conserved site
+IPR006311	Conserved_site	Twin-arginine translocation pathway, signal sequence
+IPR006653	Conserved_site	Tryptophan synthase, beta chain, conserved site
+IPR006655	Conserved_site	Molybdopterin oxidoreductase, prokaryotic, conserved site
+IPR006686	Conserved_site	Mechanosensitive ion channel MscS, conserved site
+IPR006690	Conserved_site	Outer membrane protein, OmpA-like, conserved site
+IPR007121	Conserved_site	RNA polymerase, beta subunit, conserved site
+IPR007166	Conserved_site	Class III signal peptide motif
+IPR007577	Conserved_site	Glycosyltransferase, DXD sugar-binding motif
+IPR007858	Conserved_site	Dpy-30 motif
+IPR008142	Conserved_site	Alanine dehydrogenase/NAD(P) transhydrogenase, conserved site-1
+IPR008143	Conserved_site	Alanine dehydrogenase/pyridine nucleotide transhydrogenase, conserved site-2
+IPR008150	Conserved_site	Phytoene dehydrogenase, bacterial-type, conserved site
+IPR008193	Conserved_site	DNA-directed RNA polymerase Rpb11, 13-16kDa subunit, conserved site
+IPR008284	Conserved_site	Molybdenum cofactor biosynthesis, conserved site
+IPR008918	Conserved_site	Helix-hairpin-helix motif, class 2
+IPR009535	Conserved_site	Phospholipase C-beta, conserved site
+IPR010133	Conserved_site	Bacteriocin-type signal sequence
+IPR010810	Conserved_site	Flagellin hook, IN motif
+IPR010916	Conserved_site	TonB box, conserved site
+IPR010917	Conserved_site	TonB-dependent receptor, conserved site
+IPR011062	Conserved_site	Contryphan, conserved site
+IPR011142	Conserved_site	Spider toxin CSTX, Knottin scaffold conserved site
+IPR011477	Conserved_site	Protein of unknown function DUF1584, conserved motif
+IPR011695	Conserved_site	Tash protein, PEST motif
+IPR012321	Conserved_site	Conotoxin, omega-type, conserved site
+IPR012322	Conserved_site	Conotoxin, delta-type, conserved site
+IPR012323	Conserved_site	Cyclotide, bracelet, conserved site
+IPR012324	Conserved_site	Cyclotide, moebius, conserved site
+IPR012640	Conserved_site	Membrane lipoprotein, lipid attachment site
+IPR013000	Conserved_site	Ribosomal protein L4/L1e, eukaryotic/archaeal, conserved site
+IPR013006	Conserved_site	Antimicrobial peptide, C6 type, conserved site
+IPR013032	Conserved_site	EGF-like, conserved site
+IPR013055	Conserved_site	Tachykinin/Neurokinin-like, conserved site
+IPR013061	Conserved_site	Tryptophan/tryrosine permease, conserved site
+IPR013139	Conserved_site	Omega-atracotoxin, conserved site-2
+IPR013140	Conserved_site	Huwentoxin, conserved site-1
+IPR013141	Conserved_site	Conotoxin-I, conserved site
+IPR013152	Conserved_site	Gastrin/cholecystokinin, conserved site
+IPR013383	Conserved_site	CRISPR-associated protein DxTHG, conserved site
+IPR013734	Conserved_site	Transcription factor Nrm1/Whi5
+IPR013793	Conserved_site	Porin, Gram-negative type, conserved site
+IPR013852	Conserved_site	Translation elongation factor P/YeiP, conserved site
+IPR014029	Conserved_site	NADH:ubiquinone oxidoreductase, 49kDa subunit, conserved site
+IPR014034	Conserved_site	Ferritin, conserved site
+IPR014762	Conserved_site	DNA mismatch repair, conserved site
+IPR014783	Conserved_site	Copper type II, ascorbate-dependent monooxygenase, histidine-cluster-2 conserved site
+IPR015869	Conserved_site	Transcription antitermination protein, NusG, bacteria, conserved site
+IPR015875	Conserved_site	IMP dehydrogenase / GMP reductase, conserved site
+IPR015884	Conserved_site	Malic enzyme, conserved site
+IPR015892	Conserved_site	Carbonic anhydrase, prokaryotic-like, conserved site
+IPR015910	Conserved_site	Inosine/uridine-preferring nucleoside hydrolase, conserved site
+IPR015911	Conserved_site	Phosphoglycerate kinase, conserved site
+IPR015912	Conserved_site	Phosphofructokinase, conserved site
+IPR015967	Conserved_site	Recombination protein RecR, conserved site
+IPR015994	Conserved_site	Phosphoenolpyruvate carboxykinase (ATP), conserved site
+IPR016050	Conserved_site	Proteasome beta-type subunit, conserved site
+IPR016059	Conserved_site	DNA ligase, ATP-dependent, conserved site
+IPR016066	Conserved_site	Alpha-D-phosphohexomutase, conserved site
+IPR016157	Conserved_site	Cullin, conserved site
+IPR016160	Conserved_site	Aldehyde dehydrogenase, cysteine active site
+IPR017690	Conserved_site	Outer membrane insertion C-terminal signal, omp85 target
+IPR017703	Conserved_site	YgfZ/GcvT conserved site
+IPR017756	Conserved_site	Transmembrane Gly-Cys-Arg, conserved site
+IPR017860	Conserved_site	Peptidase M22, conserved site
+IPR017864	Conserved_site	Arrestin, conserved site
+IPR017865	Conserved_site	F-actin capping protein, alpha subunit, conserved site
+IPR017866	Conserved_site	Succinyl-CoA synthetase, beta subunit, conserved site
+IPR017870	Conserved_site	FeS cluster insertion, C-terminal, conserved site
+IPR017871	Conserved_site	ABC transporter, conserved site
+IPR017872	Conserved_site	Pyrimidine-nucleoside phosphorylase, conserved site
+IPR017889	Conserved_site	Avidin-like, conserved site
+IPR017891	Conserved_site	Insulin-like growth factor binding protein, N-terminal, Cys-rich conserved site
+IPR017900	Conserved_site	4Fe-4S ferredoxin, iron-sulphur binding, conserved site
+IPR017907	Conserved_site	Zinc finger, RING-type, conserved site
+IPR017915	Conserved_site	Colipase, conserved site
+IPR017918	Conserved_site	Nitrogen regulatory protein PII, conserved site
+IPR017925	Conserved_site	Dihydrofolate reductase conserved site
+IPR017937	Conserved_site	Thioredoxin, conserved site
+IPR017948	Conserved_site	Transforming growth factor beta, conserved site
+IPR017949	Conserved_site	Thaumatin, conserved site
+IPR017953	Conserved_site	Carbohydrate kinase, predicted, conserved site
+IPR017954	Conserved_site	Lipid-binding serum glycoprotein, conserved site
+IPR017956	Conserved_site	AT hook, DNA-binding motif
+IPR017957	Conserved_site	P-type trefoil, conserved site
+IPR017958	Conserved_site	Glutamyl-tRNA(Gln) amidotransferase, subunit B, conserved site
+IPR017964	Conserved_site	DNA-directed DNA polymerase, family B, conserved site
+IPR017967	Conserved_site	HMG box A DNA-binding domain, conserved site
+IPR017968	Conserved_site	Acylphosphatase, conserved site
+IPR017969	Conserved_site	Heavy-metal-associated, conserved site
+IPR017970	Conserved_site	Homeobox, conserved site
+IPR017972	Conserved_site	Cytochrome P450, conserved site
+IPR017974	Conserved_site	Claudin, conserved site
+IPR017975	Conserved_site	Tubulin, conserved site
+IPR017977	Conserved_site	Zona pellucida domain, conserved site
+IPR017979	Conserved_site	GPCR, family 3, conserved site
+IPR017983	Conserved_site	GPCR, family 2, secretin-like, conserved site
+IPR017985	Conserved_site	DNA methylase, N-4 cytosine-specific, conserved site
+IPR017988	Conserved_site	Ribosome-inactivating protein conserved site
+IPR017990	Conserved_site	Connexin, conserved site
+IPR018000	Conserved_site	Neurotransmitter-gated ion-channel, conserved site
+IPR018016	Conserved_site	Nucleoside phosphorylase, conserved site
+IPR018023	Conserved_site	Ribosome maturation protein SBDS, conserved site
+IPR018030	Conserved_site	Fimbrial membrane usher, conserved site
+IPR018038	Conserved_site	Ribosomal protein L30, conserved site
+IPR018039	Conserved_site	Intermediate filament protein, conserved site
+IPR018042	Conserved_site	Aspartate kinase, conserved site
+IPR018043	Conserved_site	Sodium:galactoside symporter, conserved site
+IPR018045	Conserved_site	Sulphate anion transporter, conserved site
+IPR018046	Conserved_site	Pili assembly chaperone, conserved site
+IPR018047	Conserved_site	Ammonium transporter, conserved site
+IPR018048	Conserved_site	CXC chemokine, conserved site
+IPR018049	Conserved_site	Interleukin-7/Interleukin-9, conserved site
+IPR018050	Conserved_site	Phosphomannose isomerase, type I, conserved site
+IPR018052	Conserved_site	Aldose 1-epimerase, conserved site
+IPR018054	Conserved_site	Chromogranin, conserved site
+IPR018056	Conserved_site	Kringle, conserved site
+IPR018062	Conserved_site	HTH domain AraC-type, conserved site
+IPR018063	Conserved_site	SAM-dependent methyltransferase RsmI, conserved site
+IPR018065	Conserved_site	Ribosomal protein L34e, conserved site
+IPR018066	Conserved_site	Tubby, C-terminal, conserved site
+IPR018067	Conserved_site	Protein phosphatase 2A regulatory subunit PR55, conserved site
+IPR018071	Conserved_site	Omega-atracotoxin, conserved site
+IPR018072	Conserved_site	Conotoxin, alpha-type, conserved site
+IPR018073	Conserved_site	Proteinase inhibitor I25, cystatin, conserved site
+IPR018074	Conserved_site	Ubiquitin-activating enzyme E1, conserved site
+IPR018078	Conserved_site	DNA-binding, RecF, conserved site
+IPR018079	Conserved_site	Ribosomal protein S4, conserved site
+IPR018080	Conserved_site	Band 7/stomatin-like, conserved site
+IPR018083	Conserved_site	Sterol reductase, conserved site
+IPR018084	Conserved_site	Hok/gef cell toxic protein, conserved site
+IPR018086	Conserved_site	NADH:ubiquinone oxidoreductase, subunit 1, conserved site
+IPR018087	Conserved_site	Glycoside hydrolase, family 5, conserved site
+IPR018091	Conserved_site	Phosphoenolpyruvate carboxykinase, GTP-utilising, conserved site
+IPR018093	Conserved_site	BCCT transporter, conserved site
+IPR018095	Conserved_site	Thymidylate kinase, conserved site
+IPR018096	Conserved_site	Interleukin-4/interleukin-13, conserved site
+IPR018097	Conserved_site	EGF-like calcium-binding, conserved site
+IPR018098	Conserved_site	Ribosomal S24e conserved site
+IPR018099	Conserved_site	Purine phosphorylase, family 2, conserved site
+IPR018101	Conserved_site	Translation elongation factor Ts, conserved site
+IPR018102	Conserved_site	Ribosomal S11, conserved site
+IPR018103	Conserved_site	Translationally controlled tumour protein, conserved site
+IPR018104	Conserved_site	Translation initiation factor 1A (eIF-1A), conserved site
+IPR018106	Conserved_site	CAP, conserved site, N-terminal
+IPR018107	Conserved_site	Sodium:dicarboxylate symporter, conserved site
+IPR018109	Conserved_site	Folylpolyglutamate synthetase, conserved site
+IPR018110	Conserved_site	Mandelate racemase/muconate lactonizing enzyme, conserved site
+IPR018113	Conserved_site	Phosphotransferase system EIIB, cysteine phosphorylation site
+IPR018116	Conserved_site	Somatotropin hormone, conserved site
+IPR018122	Conserved_site	Fork head domain conserved site1
+IPR018124	Conserved_site	Calreticulin/calnexin, conserved site
+IPR018126	Conserved_site	Small acid-soluble spore protein, alpha/beta-type, conserved site
+IPR018130	Conserved_site	Ribosomal protein S2, conserved site
+IPR018134	Conserved_site	Lysosome-associated membrane glycoprotein, conserved site
+IPR018146	Conserved_site	Glyoxalase I, conserved site
+IPR018151	Conserved_site	Transcription elongation factor, GreA/GreB, conserved site
+IPR018161	Conserved_site	Wnt protein, conserved site
+IPR018166	Conserved_site	S-adenosylmethionine decarboxylase, conserved site
+IPR018168	Conserved_site	Ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6, conserved site
+IPR018170	Conserved_site	Aldo/keto reductase, conserved site
+IPR018171	Conserved_site	Peptidyl-tRNA hydrolase, conserved site
+IPR018176	Conserved_site	Tryptophanase, conserved site
+IPR018181	Conserved_site	Heat shock protein 70, conserved site
+IPR018184	Conserved_site	Integrin alpha chain, C-terminal cytoplasmic region, conserved site
+IPR018186	Conserved_site	Transcription factor, T-box, conserved site
+IPR018189	Conserved_site	Phosphoglucose isomerase, conserved site
+IPR018192	Conserved_site	Ribosomal protein S5, N-terminal, conserved site
+IPR018198	Conserved_site	ATP phosphoribosyltransferase, conserved site
+IPR018199	Conserved_site	Ribosomal protein S4e, N-terminal, conserved site
+IPR018200	Conserved_site	Ubiquitin specific protease, conserved site
+IPR018206	Conserved_site	Electron transfer flavoprotein subunit alpha, conserved site
+IPR018207	Conserved_site	Haem oxygenase conserved site
+IPR018211	Conserved_site	Alcohol dehydrogenase, iron-type, conserved site
+IPR018212	Conserved_site	Sodium/solute symporter, conserved site
+IPR018214	Conserved_site	Glutamyl-tRNA reductase, conserved site
+IPR018216	Conserved_site	Cathelicidin, conserved site
+IPR018219	Conserved_site	Thiol peroxidase conserved site
+IPR018223	Conserved_site	Argininosuccinate synthase, conserved site
+IPR018224	Conserved_site	Ependymin, conserved site
+IPR018226	Conserved_site	Barwin, conserved site
+IPR018228	Conserved_site	Deoxyribonuclease, TatD-related, conserved site
+IPR018230	Conserved_site	BUD31/G10-related, conserved site
+IPR018232	Conserved_site	Glycoside hydrolase, family 37, conserved site
+IPR018233	Conserved_site	Calsequestrin, conserved site
+IPR018234	Conserved_site	GTP cyclohydrolase I, conserved site
+IPR018235	Conserved_site	Bacterial luciferase, conserved site
+IPR018236	Conserved_site	SAICAR synthetase, conserved site
+IPR018237	Conserved_site	Myelin proteolipid protein PLP, conserved site
+IPR018238	Conserved_site	Glycoside hydrolase, family 14, conserved site
+IPR018240	Conserved_site	Clathrin adaptor, mu subunit, conserved site
+IPR018241	Conserved_site	Anion exchange, conserved site
+IPR018244	Conserved_site	Allergen V5/Tpx-1-related, conserved site
+IPR018245	Conserved_site	Gonadotropin, beta subunit, conserved site
+IPR018251	Conserved_site	Crustacean neurohormone, conserved site
+IPR018252	Conserved_site	Annexin repeat, conserved site
+IPR018253	Conserved_site	DnaJ domain, conserved site
+IPR018254	Conserved_site	Ribosomal protein L29, conserved site
+IPR018255	Conserved_site	Ribosomal protein L10e, conserved site
+IPR018256	Conserved_site	Ribosomal protein L13e, conserved site
+IPR018257	Conserved_site	Ribosomal protein L19, conserved site
+IPR018258	Conserved_site	Ribosomal protein L21, conserved site
+IPR018259	Conserved_site	Ribosomal protein L21e, conserved site
+IPR018260	Conserved_site	Ribosomal protein L22/L17, conserved site
+IPR018261	Conserved_site	Ribosomal protein L27, conserved site
+IPR018262	Conserved_site	Ribosomal protein L27e, conserved site
+IPR018263	Conserved_site	Ribosomal protein L32e, conserved site
+IPR018264	Conserved_site	Ribosomal protein L33, conserved site
+IPR018265	Conserved_site	Ribosomal protein L35, conserved site
+IPR018266	Conserved_site	Ribosomal protein L35Ae, conserved site
+IPR018267	Conserved_site	Ribosomal protein L37e, conserved site
+IPR018268	Conserved_site	Ribosomal protein S10, conserved site
+IPR018269	Conserved_site	Ribosomal protein S13, conserved site
+IPR018271	Conserved_site	Ribosomal protein S14, conserved site
+IPR018273	Conserved_site	Ribosomal protein S17e, conserved site
+IPR018275	Conserved_site	Ribosomal protein S18, conserved site
+IPR018277	Conserved_site	Ribosomal protein S19e, conserved site
+IPR018278	Conserved_site	Ribosomal protein S21, conserved site
+IPR018279	Conserved_site	Ribosomal protein S21e, conserved site
+IPR018280	Conserved_site	Ribosomal protein S3, conserved site
+IPR018281	Conserved_site	Ribosomal protein S3Ae, conserved site
+IPR018282	Conserved_site	Ribosomal protein S6e, conserved site
+IPR018283	Conserved_site	Ribosomal protein S8e, conserved site
+IPR018293	Conserved_site	43kDa postsynaptic, conserved site
+IPR018294	Conserved_site	4-diphosphocytidyl-2C-methyl-D-erythritol synthase, conserved site
+IPR018295	Conserved_site	FLAP/GST2/LTC4S, conserved site
+IPR018296	Conserved_site	Acid phosphatase, class A, bacterial, conserved site
+IPR018297	Conserved_site	Adenylyl cyclase class-4/guanylyl cyclase, conserved site
+IPR018300	Conserved_site	Aminotransferase, class IV, conserved site
+IPR018311	Conserved_site	Autoinducer synthesis, conserved site
+IPR018312	Conserved_site	Chromosomal replication control, initiator DnaA, conserved site
+IPR018313	Conserved_site	Solute-binding protein family 3, conserved site
+IPR018314	Conserved_site	Bacterial Fmu (Sun)/eukaryotic nucleolar NOL1/Nop2p, conserved site
+IPR018321	Conserved_site	Glucosamine-6-phosphate isomerase, conserved site
+IPR018334	Conserved_site	ArsR-type transcription regulator, HTH motif
+IPR018335	Conserved_site	Transcription regulator HTH, Crp-type, conserved site
+IPR018336	Conserved_site	Ribonuclease PH, conserved site
+IPR018338	Conserved_site	Carbonic anhydrase, alpha-class, conserved site
+IPR018350	Conserved_site	Transcription factor COE, conserved site
+IPR018354	Conserved_site	Snake toxin, conserved site
+IPR018356	Conserved_site	Transcription regulator, HTH DeoR-type, conserved site
+IPR018357	Conserved_site	Hexapeptide transferase, conserved site
+IPR018358	Conserved_site	Disintegrin, conserved site
+IPR018359	Conserved_site	Bromodomain, conserved site
+IPR018360	Conserved_site	Calcitonin, conserved site
+IPR018361	Conserved_site	Caveolin, conserved site
+IPR018362	Conserved_site	CCAAT-binding factor, conserved site
+IPR018363	Conserved_site	CD59 antigen, conserved site
+IPR018365	Conserved_site	Cell cycle, FtsW / RodA / SpoVE, conserved site
+IPR018366	Conserved_site	Carbohydrate-binding type-2, conserved site
+IPR018368	Conserved_site	ClpA/B, conserved site 1
+IPR018369	Conserved_site	Chaperonin GroES, conserved site
+IPR018370	Conserved_site	Chaperonin Cpn60, conserved site
+IPR018371	Conserved_site	Chitin-binding, type 1, conserved site
+IPR018375	Conserved_site	Coproporphyrinogen III oxidase, conserved site
+IPR018376	Conserved_site	Enoyl-CoA hydratase/isomerase, conserved site
+IPR018378	Conserved_site	C-type lectin, conserved site
+IPR018394	Conserved_site	Cryptochrome/DNA photolyase class 1, conserved site, C-terminal
+IPR018446	Conserved_site	Corticotropin-releasing factor conserved site
+IPR018456	Conserved_site	PTR2 family proton/oligopeptide symporter, conserved site
+IPR018457	Conserved_site	LacY/RafB permease family, conserved site
+IPR018467	Conserved_site	CO/COL/TOC1, conserved site
+IPR018480	Conserved_site	Phospho-N-acetylmuramoyl-pentapeptide transferase, conserved site
+IPR018483	Conserved_site	Carbohydrate kinase, FGGY, conserved site
+IPR018486	Conserved_site	Hemopexin, conserved site
+IPR018488	Conserved_site	Cyclic nucleotide-binding, conserved site
+IPR018493	Conserved_site	Gas vesicle protein GvpA, conserved site
+IPR018494	Conserved_site	Oxysterol-binding protein, conserved site
+IPR018495	Conserved_site	Succinate dehydrogenase, cytochrome b subunit, conserved site
+IPR018496	Conserved_site	Pseudouridine synthase, RsuA/RluB/E/F, conserved site
+IPR018498	Conserved_site	Peripherin/rom-1, conserved site
+IPR018503	Conserved_site	Tetraspanin, conserved site
+IPR018507	Conserved_site	Cytochrome c oxidase, subunit VIa, conserved site
+IPR018509	Conserved_site	Dehydroquinase, class II, conserved site
+IPR018511	Conserved_site	Hemolysin-type calcium-binding conserved site
+IPR018517	Conserved_site	tRNA-dihydrouridine synthase, conserved site
+IPR018520	Conserved_site	Di-trans-poly-cis-decaprenylcistransferase-like, conserved site
+IPR018522	Conserved_site	DNA topoisomerase, type IIA, conserved site
+IPR018523	Conserved_site	Isocitrate lyase/phosphorylmutase, conserved site
+IPR018525	Conserved_site	Mini-chromosome maintenance, conserved site
+IPR018526	Conserved_site	Glycoside hydrolase, family 29, conserved site
+IPR018528	Conserved_site	Prephenate dehydratase, conserved site
+IPR018892	Conserved_site	Retro-transposon transporting motif
+IPR018935	Conserved_site	RIO kinase, conserved site
+IPR018936	Conserved_site	Phosphatidylinositol 3/4-kinase, conserved site
+IPR018938	Conserved_site	Glycophorin, conserved site
+IPR019015	Conserved_site	HIRA B motif
+IPR019041	Conserved_site	SSXRD motif
+IPR019546	Conserved_site	Twin-arginine translocation pathway, signal sequence, bacterial/archaeal
+IPR019735	Conserved_site	Synapsin, conserved site
+IPR019737	Conserved_site	Homeobox engrailed-type, conserved site
+IPR019738	Conserved_site	Myelin P0 protein, conserved site
+IPR019739	Conserved_site	CTF transcription factor/nuclear factor 1, conserved site
+IPR019740	Conserved_site	Pyridoxamine 5'-phosphate oxidase, conserved site
+IPR019741	Conserved_site	Galactokinase, conserved site
+IPR019742	Conserved_site	Alpha-2-macroglobulin, conserved site
+IPR019743	Conserved_site	Involucrin, conserved site
+IPR019744	Conserved_site	Amyloidogenic glycoprotein, extracellular domain conserved site
+IPR019745	Conserved_site	Amyloidogenic glycoprotein, intracellular domain, conserved site
+IPR019747	Conserved_site	FERM conserved site
+IPR019758	Conserved_site	Peptidase S26A, signal peptidase I, conserved site
+IPR019760	Conserved_site	DNA-directed DNA polymerase, family A, conserved site
+IPR019761	Conserved_site	DNA-directed RNA polymerase M, 15kDa subunit, conserved site
+IPR019762	Conserved_site	Dynamin, GTPase region, conserved site
+IPR019763	Conserved_site	Dynein light chain, type 1/2, conserved site
+IPR019764	Conserved_site	Endothelin-like toxin, conserved site
+IPR019765	Conserved_site	Ephrin, conserved site
+IPR019767	Conserved_site	Erythropoietin/thrombopoeitin, conserved site
+IPR019770	Conserved_site	Eukaryotic translation initiation factor 4E (eIF-4E), conserved site
+IPR019771	Conserved_site	F-actin capping protein, beta subunit, conserved site
+IPR019775	Conserved_site	WD40 repeat, conserved site
+IPR019776	Conserved_site	Flagellar basal body rod protein, conserved site
+IPR019777	Conserved_site	Formate C-acetyltransferase glycine radical, conserved site
+IPR019778	Conserved_site	Hydrophobin, conserved site
+IPR019786	Conserved_site	Zinc finger, PHD-type, conserved site
+IPR019790	Conserved_site	Xylulose 5-phosphate/Fructose 6-phosphate phosphoketolase, conserved site
+IPR019795	Conserved_site	Globin, bacterial-like, conserved site
+IPR019797	Conserved_site	Glutamate 5-kinase, conserved site
+IPR019799	Conserved_site	Glycoside hydrolase, family 22, conserved site
+IPR019801	Conserved_site	Glycoside hydrolase, family 35, conserved site
+IPR019802	Conserved_site	Glycoside hydrolase, family 4, conserved site
+IPR019803	Conserved_site	Glypican, conserved site
+IPR019804	Conserved_site	Ras guanine-nucleotide exchange factor, conserved site
+IPR019805	Conserved_site	Heat shock protein Hsp90, conserved site
+IPR019806	Conserved_site	Heat-stable enterotoxin, conserved site
+IPR019808	Conserved_site	Histidine triad, conserved site
+IPR019809	Conserved_site	Histone H4, conserved site
+IPR019811	Conserved_site	Homoserine dehydrogenase, conserved site
+IPR019812	Conserved_site	Hydrogenase assembly chaperone, conserved site
+IPR019813	Conserved_site	Translation initiation factor 3, conserved site
+IPR019817	Conserved_site	Interferon regulatory factor, conserved site
+IPR019818	Conserved_site	Isocitrate/isopropylmalate dehydrogenase, conserved site
+IPR019819	Conserved_site	Carboxylesterase type B, conserved site
+IPR019820	Conserved_site	Sec-independent periplasmic protein translocase, conserved site
+IPR019821	Conserved_site	Kinesin motor domain, conserved site
+IPR019823	Conserved_site	Large-conductance mechanosensitive channel, conserved site
+IPR019827	Conserved_site	Leukemia inhibitory factor /oncostatin, conserved site
+IPR019828	Conserved_site	Lysyl oxidase, conserved site
+IPR019829	Conserved_site	Macrophage migration inhibitory factor, conserved site
+IPR019830	Conserved_site	Malate synthase, conserved site
+IPR019834	Conserved_site	Glycoside hydrolase, family 8, conserved site
+IPR019841	Conserved_site	Osteopontin, conserved site
+IPR019842	Conserved_site	Uricase, conserved site
+IPR019844	Conserved_site	Cold-shock conserved site
+IPR019845	Conserved_site	Squalene/phytoene synthase, conserved site
+IPR019846	Conserved_site	Nerve growth factor conserved site
+IPR019885	Conserved_site	Transcription regulator HTH, AsnC-type, conserved site
+IPR019897	Conserved_site	RidA, conserved site
+IPR019926	Conserved_site	Ribosomal protein L3, conserved site
+IPR019954	Conserved_site	Ubiquitin conserved site
+IPR019972	Conserved_site	Ribosomal protein L14P,  conserved site
+IPR019974	Conserved_site	XPG conserved site
+IPR019979	Conserved_site	Ribosomal protein S17, conserved site
+IPR020052	Conserved_site	Ribosomal protein L31e, conserved site
+IPR020053	Conserved_site	Ribosome-binding factor A, conserved site
+IPR020054	Conserved_site	Proteinase inhibitor I16, Streptomyces subtilisin-type inhibitor, conserved site
+IPR020062	Conserved_site	Nuclear transition protein 1, conserved site
+IPR020079	Conserved_site	Peptidase A26, omptin, conserved site
+IPR020081	Conserved_site	SsrA-binding protein, conserved site
+IPR020082	Conserved_site	S-adenosyl-L-homocysteine hydrolase, conserved site
+IPR020083	Conserved_site	Ribosomal protein L39e, conserved site
+IPR020084	Conserved_site	NUDIX hydrolase, conserved site
+IPR020092	Conserved_site	Pleiotrophin/Midkine heparin-binding growth factor, conserved site
+IPR020119	Conserved_site	Pseudouridine synthase TruD, conserved site
+IPR020392	Conserved_site	Pancreatic hormone-like, conserved site
+IPR020396	Conserved_site	NADH:ubiquinone oxidoreductase, 30kDa subunit, conserved site
+IPR020423	Conserved_site	Interleukin-10, conserved site
+IPR020458	Conserved_site	Zinc finger, DksA/TraR C4-type conserved site
+IPR020538	Conserved_site	Hydrogenase nickel incorporation protein HypA/HybF, conserved site
+IPR020539	Conserved_site	Ribonuclease P, conserved site
+IPR020541	Conserved_site	Chorismate synthase, conserved site
+IPR020549	Conserved_site	Endoribonuclease YbeY, conserved site
+IPR020550	Conserved_site	Inositol monophosphatase, conserved site
+IPR020554	Conserved_site	Uncharacterised protein family UPF0021, conserved site
+IPR020555	Conserved_site	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase, conserved site
+IPR020556	Conserved_site	Amidase, conserved site
+IPR020557	Conserved_site	Fumarate lyase, conserved site
+IPR020558	Conserved_site	Dihydroxy-acid/6-phosphogluconate dehydratase, conserved site
+IPR020559	Conserved_site	Phosphoribosylglycinamide synthetase, conserved site
+IPR020565	Conserved_site	Imidazoleglycerol-phosphate dehydratase, conserved site
+IPR020567	Conserved_site	Nodulation protein A, NodA, conserved site
+IPR020569	Conserved_site	Uncharacterised protein family UPF0029, Impact, conserved site
+IPR020574	Conserved_site	Ribosomal protein S9, conserved site
+IPR020584	Conserved_site	DNA recombination/repair protein RecA, conserved site
+IPR020586	Conserved_site	Photosystem I PsaA/PsaB, conserved site
+IPR020590	Conserved_site	Guanylate kinase, conserved site
+IPR020592	Conserved_site	Ribosomal protein S16, conserved site
+IPR020593	Conserved_site	Gamma-glutamyl phosphate reductase GPR, conserved site
+IPR020595	Conserved_site	MnmG-related, conserved site
+IPR020596	Conserved_site	Ribosomal RNA adenine methylase transferase, conserved site
+IPR020605	Conserved_site	Octanoyltransferase, conserved site
+IPR020606	Conserved_site	Ribosomal protein S7, conserved site
+IPR020608	Conserved_site	RNA polymerase, subunit H/Rpb5, conserved site
+IPR020611	Conserved_site	Copper type II, ascorbate-dependent monooxygenase, histidine-cluster-1 conserved site
+IPR020612	Conserved_site	Methylthiotransferase, conserved site
+IPR020613	Conserved_site	Thiolase, conserved site
+IPR020624	Conserved_site	Schiff base-forming aldolase, conserved site
+IPR020628	Conserved_site	Formate-tetrahydrofolate ligase, FTHFS, conserved site
+IPR020633	Conserved_site	Thymidine kinase, conserved site
+IPR020708	Conserved_site	DNA-directed RNA polymerase, 14-18kDa subunit, conserved site
+IPR020717	Conserved_site	Apoptosis regulator, Bcl-2, BH1 motif, conserved site
+IPR020719	Conserved_site	RNA 3'-terminal phosphate cyclase-like, conserved site
+IPR020726	Conserved_site	Apoptosis regulator, Bcl-2, BH2 motif, conserved site
+IPR020728	Conserved_site	Apoptosis regulator, Bcl-2, BH3 motif, conserved site
+IPR020731	Conserved_site	Apoptosis regulator, Bcl-2, BH4 motif, conserved site
+IPR020781	Conserved_site	ATPase, OSCP/delta subunit, conserved site
+IPR020785	Conserved_site	Ribosomal protein L11, conserved site
+IPR020798	Conserved_site	Ribosomal protein L16, conserved site
+IPR020805	Conserved_site	Cell division protein FtsZ, conserved site
+IPR020808	Conserved_site	Bacterial microcompartments protein, conserved site
+IPR020809	Conserved_site	Enolase, conserved site
+IPR020813	Conserved_site	Fibrillarin, conserved site
+IPR020815	Conserved_site	Ribosomal protein S6, conserved site
+IPR020816	Conserved_site	Histone-like DNA-binding protein, conserved site
+IPR020834	Conserved_site	Lipoxygenase, conserved site
+IPR020837	Conserved_site	Fibrinogen, conserved site
+IPR020845	Conserved_site	AMP-binding, conserved site
+IPR020848	Conserved_site	AP endonuclease 1, conserved site
+IPR020857	Conserved_site	Serum albumin, conserved site
+IPR020863	Conserved_site	Membrane attack complex component/perforin domain, conserved site
+IPR020867	Conserved_site	Tetrahydrofolate dehydrogenase/cyclohydrolase, conserved site
+IPR020877	Conserved_site	Interleukin-1 conserved site
+IPR020891	Conserved_site	Uncharacterised protein family UPF0758, conserved site
+IPR020892	Conserved_site	Cyclophilin-type peptidyl-prolyl cis-trans isomerase, conserved site
+IPR020894	Conserved_site	Cadherin conserved site
+IPR020895	Conserved_site	Frataxin conserved site
+IPR020901	Conserved_site	Proteinase inhibitor I2, Kunitz, conserved site
+IPR020902	Conserved_site	Actin/actin-like conserved site
+IPR020903	Conserved_site	Epithelial sodium channel, conserved site
+IPR020904	Conserved_site	Short-chain dehydrogenase/reductase, conserved site
+IPR020925	Conserved_site	Ribosomal protein L15e, conserved site
+IPR020929	Conserved_site	Ribosomal protein L5, conserved site
+IPR020934	Conserved_site	Ribosomal protein S19 conserved site
+IPR020935	Conserved_site	Phosphodiesterase YfcE, conserved site
+IPR020937	Conserved_site	SecA conserved site
+IPR020939	Conserved_site	Ribosomal protein L34, conserved site
+IPR021132	Conserved_site	Ribosomal protein L18e, conserved site
+IPR021159	Conserved_site	Glycerate/sugar phosphate transporter, conserved site
+IPR021164	Conserved_site	Tyrosine hydroxylase, conserved site
+IPR021184	Conserved_site	Tumour necrosis factor, conserved site
+IPR021196	Conserved_site	PdxT/SNO family, conserved site
+IPR021197	Conserved_site	Cross-wall-targeting lipoprotein motif
+IPR021287	Conserved_site	Trans-sialidase, conserved site
+IPR021939	Conserved_site	Kank N-terminal motif
+IPR022263	Conserved_site	KxYKxGKxW signal peptide
+IPR022272	Conserved_site	Lipocalin family conserved site
+IPR022353	Conserved_site	Insulin, conserved site
+IPR022357	Conserved_site	Major intrinsic protein, conserved site
+IPR022377	Conserved_site	Small hydrophilic plant seed protein, conserved site
+IPR022379	Conserved_site	11-S seed storage protein, conserved site
+IPR022408	Conserved_site	Acyl-CoA-binding protein, ACBP, conserved site
+IPR022423	Conserved_site	Neurohypophysial hormone, conserved site
+IPR022539	Conserved_site	Protein of unknown function DUF3724, picornavirus
+IPR022631	Conserved_site	S-adenosylmethionine synthetase, conserved site
+IPR022646	Conserved_site	Protein-export membrane protein SecD/SecF/SecDF, conserved site
+IPR022652	Conserved_site	Zinc finger, XPA-type, conserved site
+IPR022657	Conserved_site	Orn/DAP/Arg decarboxylase 2, conserved site
+IPR022658	Conserved_site	XPA, conserved site
+IPR022659	Conserved_site	Proliferating cell nuclear antigen, PCNA, conserved site
+IPR022664	Conserved_site	Dihydrodipicolinate reductase, conserved site
+IPR022671	Conserved_site	Ribosomal protein L2, conserved site
+IPR022678	Conserved_site	Myristoyl-CoA:protein N-myristoyltransferase, conserved site
+IPR022966	Conserved_site	Ribonuclease II/R, conserved site
+IPR022991	Conserved_site	Ribosomal protein L30e, conserved site
+IPR023000	Conserved_site	Shikimate kinase, conserved site
+IPR023027	Conserved_site	Mannitol dehydrogenase, conserved site
+IPR023058	Conserved_site	Peptidyl-prolyl cis-trans isomerase, PpiC-type, conserved site
+IPR023076	Conserved_site	Hydroxymethylglutaryl-CoA reductase, class I/II, conserved site
+IPR023151	Conserved_site	PEP-utilising enzyme, conserved site
+IPR023152	Conserved_site	Ras GTPase-activating protein, conserved site
+IPR023174	Conserved_site	3'5'-cyclic nucleotide phosphodiesterase, conserved site
+IPR023187	Conserved_site	Transcriptional regulator MarR-type, conserved site
+IPR023188	Conserved_site	DNA-binding protein Dps, conserved site
+IPR023193	Conserved_site	3-phosphoshikimate 1-carboxyvinyltransferase, conserved site
+IPR023230	Conserved_site	Glycoside hydrolase, family 2, conserved site
+IPR023368	Conserved_site	Uncharacterised protein family UPF0066, conserved site
+IPR023384	Conserved_site	Bacteriocin, class IIa, conserved site
+IPR023409	Conserved_site	14-3-3 protein, conserved site
+IPR023415	Conserved_site	Low-density lipoprotein (LDL) receptor class A, conserved site
+IPR023419	Conserved_site	Transthyretin, conserved site
+IPR023425	Conserved_site	Galactose-1-phosphate uridyl transferase, class II, conserved site
+IPR023442	Conserved_site	Ribosomal protein L24e, conserved site
+IPR023486	Conserved_site	Transcription factor TFIIB, conserved site
+IPR023563	Conserved_site	Ribosomal protein L13, conserved site
+IPR023576	Conserved_site	UbiE/COQ5 methyltransferase, conserved site
+IPR023581	Conserved_site	Platelet-derived growth factor, conserved site
+IPR023623	Conserved_site	Antenna complex, beta subunit, conserved site
+IPR023632	Conserved_site	ATP synthase, F1 complex, gamma subunit conserved site
+IPR023636	Conserved_site	Urocanase conserved site
+IPR023638	Conserved_site	Ribosomal protein L19/L19e conserved site
+IPR023673	Conserved_site	Ribosomal protein L1, conserved site
+IPR023765	Conserved_site	Solute-binding protein family 5, conserved site
+IPR023772	Conserved_site	DNA-binding HTH domain, TetR-type, conserved site
+IPR023779	Conserved_site	Chromo domain, conserved site
+IPR023795	Conserved_site	Serpin, conserved site
+IPR023865	Conserved_site	Aliphatic acid kinase, short-chain, conserved site
+IPR023997	Conserved_site	TonB-dependent outer membrane protein SusC/RagA, conserved site
+IPR024002	Conserved_site	Formate/nitrite transporter, conserved site
+IPR024225	Conserved_site	Cyclic-AMP phosphodiesterase class-II, conserved site
+IPR024607	Conserved_site	Sulfatase, conserved site
+IPR024686	Conserved_site	Adenylate cyclase class-I, conserved site
+IPR024728	Conserved_site	DNA polymerase type-Y, HhH motif
+IPR025505	Conserved_site	FHIPEP conserved site
+IPR025820	Conserved_site	Methyltransferase NNMT/PNMT/TEMT, conserved site
+IPR025944	Conserved_site	Sigma-54 interaction domain, conserved site
+IPR027302	Conserved_site	Glutamine synthetase, N-terminal conserved site
+IPR027303	Conserved_site	Glutamine synthetase, glycine-rich site
+IPR027310	Conserved_site	Profilin conserved site
+IPR028299	Conserved_site	ClpA/B, conserved site 2
+IPR028417	Conserved_site	CAP, conserved site, C-terminal
+IPR028626	Conserved_site	Ribosomal protein S28e conserved site
+IPR029162	Conserved_site	TRP-interacting helix, InaF motif
+IPR029510	Conserved_site	Aldehyde dehydrogenase, glutamic acid active site
+IPR029752	Conserved_site	D-isomer specific 2-hydroxyacid dehydrogenase, NAD-binding domain conserved site 1
+IPR029753	Conserved_site	D-isomer specific 2-hydroxyacid dehydrogenase, NAD-binding domain conserved site
+IPR029760	Conserved_site	Glutathione peroxidase conserved site
+IPR029768	Conserved_site	Fructose-bisphosphate aldolase class-I active site
+IPR030373	Conserved_site	Polyamine biosynthesis domain, conserved site
+IPR030391	Conserved_site	RNA methyltransferase TrmA, conserved site
+IPR030456	Conserved_site	Fork head domain conserved site 2
+IPR030457	Conserved_site	ELO family, conserved site
+IPR030459	Conserved_site	Glycosyl hydrolases family 31, conserved site
+IPR030470	Conserved_site	UbiA prenyltransferase conserved site
+IPR030472	Conserved_site	Tissue factor, conserved site
+IPR030473	Conserved_site	Interleukin-6/GCSF/MGF, conserved site
+IPR030476	Conserved_site	Pentaxin, conserved site
+IPR030477	Conserved_site	Interleukin-2, conserved site
+IPR030479	Conserved_site	Syndecan, conserved site
+IPR030480	Conserved_site	Natriuretic peptide, conserved site
+IPR030489	Conserved_site	Transcription regulator Rrf2-type, conserved site
+IPR030490	Conserved_site	Tissue inhibitor of metalloproteinase, conserved site
+IPR030491	Conserved_site	TATA-box binding protein, conserved site
+IPR030492	Conserved_site	Rel homology domain, conserved site
+IPR030513	Conserved_site	Dehydrin, conserved site
+IPR030514	Conserved_site	Stathmin, conserved site
+IPR030655	Conserved_site	NifH/chlL conserved site
+IPR030659	Conserved_site	SecY conserved site
+IPR031157	Conserved_site	Tr-type G domain, conserved site
+IPR031303	Conserved_site	DNA methylase, C-5 cytosine-specific,  conserved site
+IPR031305	Conserved_site	Casein alpha/beta, conserved site
+IPR031311	Conserved_site	Chitin-binding type R&R consensus
+IPR031312	Conserved_site	Sodium/sulphate symporter, conserved site
+IPR031372	Conserved_site	CAMSAP, spectrin and Ca2+/calmodulin-binding region
+IPR032458	Conserved_site	Histone H2A conserved site
+IPR032552	Conserved_site	Acin1, RNSP1-SAP18 binding (RSB) motif
+IPR032673	Conserved_site	DNA photolyase class 2, conserved site
+IPR032831	Conserved_site	Prokaryotic lipoprotein-attachment site
+IPR033125	Conserved_site	Deoxyribonuclease I, conservied site
+IPR033132	Conserved_site	Glycosyl hydrolases family 1, N-terminal conserved site
+IPR033136	Conserved_site	NAD-dependent DNA ligase, conserved site
+IPR033138	Conserved_site	Multicopper oxidases, conserved site
+IPR033466	Conserved_site	Cornichon, conserved site
+IPR033690	Conserved_site	Adenylate kinase, conserved site
+IPR033749	Conserved_site	Polyprenyl synthetase, conserved site
+IPR033773	Conserved_site	CBX family C-terminal motif
+IPR033774	Conserved_site	Yaf2/RYBP C-terminal binding motif
+IPR033847	Conserved_site	ATP-citrate lyase/succinyl-CoA ligase, conserved site
+IPR033986	Conserved_site	Clusterin, conserved site
+IPR035090	Conserved_site	Phosphorylase pyridoxal-phosphate attachment site
